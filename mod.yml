@@ -1,0 +1,72 @@
+title: KH2WorldofTres (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: bgm\music050.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music050.win32.scd
+- name: bgm\music051.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music051.win32.scd
+- name: bgm\music052.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music052.win32.scd
+- name: bgm\music053.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music053.win32.scd
+- name: bgm\music088.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music088.win32.scd
+- name: bgm\music090.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music090.win32.scd
+- name: bgm\music091.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music091.win32.scd
+- name: bgm\music128.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music128.win32.scd
+- name: bgm\music149.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music149.win32.scd
+- name: bgm\music152.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music152.win32.scd
+- name: bgm\music153.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music153.win32.scd
