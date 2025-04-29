@@ -1,4 +1,4 @@
-title: KH2WorldofTres (KH2PCPATCH)
+title: KH2WorldofTresv2.5 (KH2PCPATCH)
 originalAuthor: Unknown
 description: This is an automatically generated metadata for this KH2PCPATCH Modification.
 game: kh2
@@ -58,12 +58,30 @@ assets:
   package: kh2_fifth
   source:
   - name: bgm\music091.win32.scd
+- name: bgm\music101.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music101.win32.scd
+- name: bgm\music103.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music103.win32.scd
 - name: bgm\music128.win32.scd
   method: copy
   platform: pc
   package: kh2_fifth
   source:
   - name: bgm\music128.win32.scd
+- name: bgm\music143.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: bgm\music143.win32.scd
 - name: bgm\music149.win32.scd
   method: copy
   platform: pc
@@ -82,3 +100,9 @@ assets:
   package: kh2_fifth
   source:
   - name: bgm\music153.win32.scd
+- name: vagstream\Title.win32.scd
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: vagstream\Title.win32.scd
